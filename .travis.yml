@@ -1,0 +1,13 @@
+language: node_js
+dist: trusty
+cache: yarn
+addons:
+  apt:
+    sources:
+      - google-chrome
+    packages:
+      - google-chrome-stable
+script:
+  - yarn build
+  - yarn test
+  - yarn coverage-publish
