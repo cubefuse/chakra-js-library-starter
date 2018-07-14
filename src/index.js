@@ -1,3 +1,5 @@
+'use strict'
+
 /**
  * Hello world function that returns a string with "Hello World"
  * @returns {string} The string "Hello World"
