@@ -6,7 +6,7 @@
 [![Code Standard Style Compliant](https://img.shields.io/badge/code-standard-green.svg?style=for-the-badge)](https://github.com/standard/standard)
 [![Readme Standard Style Compliant](https://img.shields.io/badge/readme-standard-green.svg?style=for-the-badge)](https://github.com/RichardLitt/standard-readme)
 [![Travis CI](https://img.shields.io/travis/cubefuse/chakra-js-library-starter.svg?style=for-the-badge)](https://travis-ci.com/cubefuse/chakra-js-library-starter)
-[![Codecov](https://img.shields.io/codecov/c/github/cubefuse/chakra-js-library-starter.svg?style=for-the-badge)](https://travis-ci.com/cubefuse/chakra-js-library-starter)
+[![Codecov](https://img.shields.io/codecov/c/github/cubefuse/chakra-js-library-starter.svg?style=for-the-badge)](https://codecov.io/gh/cubefuse/chakra-js-library-starter)
 
 > A Starter Kit for building modular JavaScript libraries for Chakra.js decentralized apps platform
 
